@@ -1,0 +1,2 @@
+<img src="<?= base_url('assets/') ?>img/jobdesk1.jpg" alt="jobdesk" class="img-fluid" style="width: 1800 px; height: 800 px;">
+<img src="<?= base_url('assets/') ?>img/jobdesk2.jpg" alt="jobdesk" class="img-fluid" style="width: 1800 px; height: 800 px;">
